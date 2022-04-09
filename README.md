@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello there!
 
+My name is Keian. I love coding.
+
+Over the last year I have been heavily involved in studying JavaScript and React, and related frameworks / libraries. I have created API Libraries to validate and authenticate a user, as well as instantaneous messaging apps using the powers of Socket.io.
+
+Feel free to give me a follow, or shoot me a message if you are interested in learning more!
 <!--
 **Keian-A/Keian-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
