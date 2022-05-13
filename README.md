@@ -1,10 +1,14 @@
-### Hello there!
+### Hello!
 
-My name is Keian. I love coding.
+Software Developer
 
-Over the last year I have been heavily involved in studying JavaScript and React, and related frameworks / libraries. I have created API Libraries to validate and authenticate a user, as well as instantaneous messaging apps using the powers of Socket.io.
+Experience with:
+React.JS, Socket.io, JavaScript, Java, Lua, python, and more!
 
-Feel free to give me a follow, or shoot me a message if you are interested in learning more!
+On my free time, I love skiing or simply sitting down with a good book!
+
+![SkiingDinosaurGIF](https://user-images.githubusercontent.com/76914412/168401215-4c9f6fea-dbb4-4b12-b59f-a879ecf64f78.gif)
+
 <!--
 **Keian-A/Keian-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
