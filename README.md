@@ -1,6 +1,6 @@
 ### Hello!
 
-Software Developer
+Software Engineer
 
 Experience with:
 React.JS, Socket.io, JavaScript, Java, Lua, python, and more!
